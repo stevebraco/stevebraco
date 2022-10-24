@@ -31,22 +31,21 @@ Developer React JS
 
 
 
-|  #  | Project Personel                                                                                                                    | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [AudioPhile](https://github.com/stevebraco/React-Audiophile/tree/main/audiophile-ecomm-website/audiophile-ecomm-app)                                | [Website](https://audiophile.vercel.app/)               |
-| 02  | [FeedBackApp](https://github.com/stevebraco/feedback-app)                          | [Website](https://notedly-front-react-graph-ql-express-node.vercel.app/)          |
-| 03  | [Dinner Restaurant](https://github.com/stevebraco/dinner-restaurant)                                   | [Website](https://dinner-restaurant.vercel.app/)                  |
-| 04  | [HotelApp](https://github.com/stevebraco/airHotel-react)                               | [Website](https://air-hotel-react.vercel.app/)                   |
-| 05  | [NotedlyApp](https://github.com/stevebraco/notedly_FRONT_React-GraphQL-Express-Node)                       | [Website](https://notedly-front-react-graph-ql-express-node.vercel.app/) |
-| 06  | [CookieApp](https://github.com/stevebraco/cookie)                               | [Website](https://feedback-app-braco.netlify.app/)                |
-| 07  | [ContactApp](https://github.com/stevebraco/contact)                           | [Website](https://cook-chi.vercel.app/)              |
-| 08  | [BracFlix](https://github.com/stevebraco/movies.com)                       | [Website](https://mycontacts.vercel.app/)            |
-| 09  | [BeautyLife](https://github.com/stevebraco/beauty-lifestyle)                                         | [Website](https://movies-com.vercel.app/#)                     |
-| 10  | [StarBucks](https://github.com/stevebraco/Starbucks/tree/main/Starbucks)                                     | [Website](https://beauty-lifestyle.vercel.app)                   |
-| 11  | [Meet Landing](https://github.com/stevebraco/FrontEndMentor-meet-landing)                                         | [Website](https://starbucks-green.vercel.app/)                     |
-| 12  | [ReviewsApp](https://github.com/stevebraco/reviews-app-react)                               | [Website](https://meet-landing-xi.vercel.app/)                |
-| 13  | [Game RollDice](https://github.com/stevebraco/GameRollDice)                                   | [Website](https://reviews-app-react.vercel.app/)                  |
-
+|  #  | Project Repository                                                                                                                    | Live Demo                                                                         |
+| :-: | :-:|     :-: |
+| 01  | [ToDoApp](https://github.com/stevebraco/testTechniqueSogeti)                                | [Website](https://stevebraco.github.io/testTechniqueSogeti/)               |
+| 02  | [AudioPhile](https://github.com/stevebraco/React-Audiophile/tree/main/audiophile-ecomm-website/audiophile-ecomm-app)                                | [Website](https://audiophile.vercel.app/)               |
+| 03  | [FeedBackApp](https://github.com/stevebraco/feedback-app)                          | [Website](https://feedback-app-braco.netlify.app/)          |
+| 04  | [Dinner Restaurant](https://github.com/stevebraco/dinner-restaurant)                                   | [Website](https://dinner-restaurant.vercel.app/)                  |
+| 05  | [HotelApp](https://github.com/stevebraco/airHotel-react)                               | [Website](https://air-hotel-react.vercel.app/)                   |
+| 06  | [NotedlyApp](https://github.com/stevebraco/notedly_FRONT_React-GraphQL-Express-Node)                       | [Website](https://notedly-front-react-graph-ql-express-node.vercel.app/) |
+| 07  | [CookieApp](https://github.com/stevebraco/cookie)                               | [Website](https://cook-chi.vercel.app)                |
+| 08  | [ContactApp](https://github.com/stevebraco/contact)                           | [Website](https://mycontacts.vercel.app/)              |
+| 09  | [BeautyLife](https://github.com/stevebraco/beauty-lifestyle)                                         | [Website](https://beauty-lifestyle.vercel.app)                     |
+| 10  | [StarBucks](https://github.com/stevebraco/Starbucks/tree/main/Starbucks)                                     | [Website](https://starbucks-green.vercel.app/)                   |
+| 11  | [Meet Landing](https://github.com/stevebraco/FrontEndMentor-meet-landing)                                         | [Website](https://meet-landing-xi.vercel.app/)                     |
+| 12  | [ReviewsApp](https://github.com/stevebraco/reviews-app-react)                               | [Website](https://reviews-app-react.vercel.app/)                |
+| 13  | [Game RollDice](https://github.com/stevebraco/GameRollDice)                                   | [Website](https://stevebraco.github.io/GameRollDice/)                  |
 
 
 |  #  | Project Formation                                                                                                                | Live Demo                                                                         |
