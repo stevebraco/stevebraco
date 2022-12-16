@@ -52,12 +52,14 @@ Developer React JS
 
 |  #  | Project Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [Kasa](https://github.com/stevebraco/P11_kasa_OP)                                | [Website](https://p11-kasa-op.vercel.app/)               |
-| 04  | [MyFood](https://github.com/stevebraco/BracoSteve_3_11012022)                          | [Website](https://stevebraco.github.io/BracoSteve_3_11012022/)          |
-| 02  | [PetitsPlats](https://github.com/stevebraco/petitsPlats_OP)                               | [Website](https://stevebraco.github.io/petitsPlats_OP/)                   |
-| 03  | [NotedlyApp](https://github.com/stevebraco/notedly_FRONT_React-GraphQL-Express-Node)                       | [Website](https://notedly-front-react-graph-ql-express-node.vercel.app/) |
-| 05  | [FishEye](https://github.com/stevebraco/Front-End-Fisheye)                               | [Website](https://fisheye-braco.netlify.app/index.html)                |
-| 06  | [DragonSlayer](https://github.com/stevebraco/DragonSlayer_3wa)                           | [Website](https://dragon-slayer-3wa.vercel.app/)              |
+| 01  | [Booki](https://github.com/stevebraco/P2-OP)                                | [Website](https://stevebraco.github.io/P2-OP/)               |
+| 02  | [Kasa](https://github.com/stevebraco/P11_kasa_OP)                                | [Website](https://p11-kasa-op.vercel.app/)               |
+| 03  | [MyFood](https://github.com/stevebraco/BracoSteve_3_11012022)                          | [Website](https://stevebraco.github.io/BracoSteve_3_11012022/)          |
+| 04  | [PetitsPlats](https://github.com/stevebraco/petitsPlats_OP)                               | [Website](https://stevebraco.github.io/petitsPlats_OP/)                   |
+| 05  | [NotedlyApp](https://github.com/stevebraco/notedly_FRONT_React-GraphQL-Express-Node)                       | [Website](https://notedly-front-react-graph-ql-express-node.vercel.app/) |
+| 06  | [FishEye](https://github.com/stevebraco/Front-End-Fisheye)                               | [Website](https://fisheye-braco.netlify.app/index.html)                |
+| 07  | [DragonSlayer](https://github.com/stevebraco/DragonSlayer_3wa)                           | [Website](https://dragon-slayer-3wa.vercel.app/)              |
+
 
 
 
