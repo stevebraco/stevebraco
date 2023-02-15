@@ -1,4 +1,4 @@
-Hi 👋 My name is Steve Braco
+Steve Braco
 ============================
 
 Developer React JS
@@ -6,8 +6,6 @@ Developer React JS
 
 * 🌍  I'm based in Paris - Bordeaux
 * ✉️  You can contact me at [steve.braco@gmail.com](mailto:steve.braco@gmail.com)
-* 🚀  I'm currently working on [FeedBack App](http://feedback-app-braco.netlify.app/)
-* 🧠  I'm learning Jest - TypeScript - VueJs
 
 ### Skills
 
